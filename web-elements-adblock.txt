@@ -1,0 +1,5 @@
+github.com##.border.rounded-2.mb-4.pb-3.color-border-muted.color-bg-default.js-notice
+mods.factorio.com##.ukraine-banner
+mods.factorio.com##.top-banner
+forums.factorio.com##.ukraine-banner
+yarnpkg.com##.css-sx6s5u.e17b7ciw2
