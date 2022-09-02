@@ -14,6 +14,7 @@ mods.factorio.com##.top-banner
 factorio.com##.top-banner
 forums.factorio.com##.ukraine-banner
 yarnpkg.com##.css-sx6s5u.e17b7ciw2
+daemon-tools.cc##.support-ukraine-link
 
 ! Non Core Function ---------------------------------------------------------
 ci.appveyor.com##.fixed.contain-to-grid
