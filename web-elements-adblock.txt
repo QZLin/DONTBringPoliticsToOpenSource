@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: DONT Bring Politics To OpenSource List
 ! Expires: 7 days (update frequency)
-! Version: 1
+! Version: 2
 ! Homepage: https://github.com/QZLin/DONTBringPoliticsToOpenSource
 ! Contribute: https://github.com/QZLin/DONTBringPoliticsToOpenSource/issues
 ! License: https://www.gnu.org/licenses/agpl-3.0.txt
