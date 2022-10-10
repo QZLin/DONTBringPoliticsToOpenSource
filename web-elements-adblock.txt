@@ -8,14 +8,17 @@
 !-------------------------------------------------------------------------------
 
 ! Non Function ---------------------------------------------------------
+!! Doc/Resource
 github.com##.border.rounded-2.mb-4.pb-3.color-border-muted.color-bg-default.js-notice
+pnpm.io##.announcementBarContent_Bgx6.content_sjNs > [href="https://war.ukraine.ua/support-ukraine/"]
+yarnpkg.com##.css-sx6s5u.e17b7ciw2
+!! Others
+www.grammarly.com##._1-w-e-ukraineSwoosh._3qRoO-dark._21S0n-banner
+daemon-tools.cc##.support-ukraine-link
+factorio.com##.top-banner
 mods.factorio.com##.ukraine-banner
 mods.factorio.com##.top-banner
-factorio.com##.top-banner
 forums.factorio.com##.ukraine-banner
-yarnpkg.com##.css-sx6s5u.e17b7ciw2
-daemon-tools.cc##.support-ukraine-link
-www.grammarly.com##._1-w-e-ukraineSwoosh._3qRoO-dark._21S0n-banner
 
 ! Non Core Function ---------------------------------------------------------
 ci.appveyor.com##.fixed.contain-to-grid
