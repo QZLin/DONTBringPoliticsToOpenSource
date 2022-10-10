@@ -13,6 +13,8 @@ github.com##.border.rounded-2.mb-4.pb-3.color-border-muted.color-bg-default.js-n
 pnpm.io##.announcementBarContent_Bgx6.content_sjNs > [href="https://war.ukraine.ua/support-ukraine/"]
 yarnpkg.com##.css-sx6s5u.e17b7ciw2
 !! Others
+notepad-plus-plus.org##[href="/donate-to-ukraine"]
+||notepad-plus-plus.org/assets/images/flagUkraine.png$image
 www.grammarly.com##._1-w-e-ukraineSwoosh._3qRoO-dark._21S0n-banner
 daemon-tools.cc##.support-ukraine-link
 factorio.com##.top-banner
