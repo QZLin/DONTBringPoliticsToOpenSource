@@ -16,6 +16,7 @@ forums.factorio.com##.ukraine-banner
 yarnpkg.com##.css-sx6s5u.e17b7ciw2
 daemon-tools.cc##.support-ukraine-link
 www.grammarly.com##._1-w-e-ukraineSwoosh._3qRoO-dark._21S0n-banner
+||static.grammarly.com/assets/files/*/ukraine_*g$image
 
 ! Non Core Function ---------------------------------------------------------
 ci.appveyor.com##.fixed.contain-to-grid
