@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: DONT Bring Politics To OpenSource List
 ! Expires: 7 days (update frequency)
-! Version: 2
+! Version: 3
 ! Homepage: https://github.com/QZLin/DONTBringPoliticsToOpenSource
 ! Contribute: https://github.com/QZLin/DONTBringPoliticsToOpenSource/issues
 ! License: https://www.gnu.org/licenses/agpl-3.0.txt
@@ -22,6 +22,7 @@ factorio.com##.top-banner
 mods.factorio.com##.ukraine-banner
 mods.factorio.com##.top-banner
 forums.factorio.com##.ukraine-banner
+files.community##.svelte-e2a5n0.tooltip-wrapper
 
 ! Non Core Function ---------------------------------------------------------
 ci.appveyor.com##.fixed.contain-to-grid
