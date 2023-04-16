@@ -8,6 +8,9 @@
 !-------------------------------------------------------------------------------
 
 ! Non Function ---------------------------------------------------------
+!! Loc Match
+pnpm.io##.announcementBarContent_L1oP.content_vpqr
+
 !! Doc/Resource
 github.com##.border.rounded-2.mb-4.pb-3.color-border-muted.color-bg-default.js-notice
 pnpm.io##.announcementBarContent_Bgx6.content_sjNs > [href="https://war.ukraine.ua/support-ukraine/"]
