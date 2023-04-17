@@ -20,6 +20,8 @@ notepad-plus-plus.org##[href="/donate-to-ukraine"]
 notepad-plus-plus.org##[src="/assets/images/flagUkraine.png"]
 www.grammarly.com##._1-w-e-ukraineSwoosh._3qRoO-dark._21S0n-banner
 daemon-tools.cc##.support-ukraine-link
+daemon-tools.cc##.active.support-ukraine
+
 !!
 factorio.com##.top-banner
 mods.factorio.com##.ukraine-banner
